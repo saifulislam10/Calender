@@ -1,0 +1,99 @@
+body {
+    background: #0000006b;
+    margin: 0;
+    padding: 0;
+}
+.Calender-Main-Div{
+    width: 430px;
+    height: 510px;
+    margin: 30px auto;
+    background: #ddd;
+    border: 3px solid #777;
+}
+.Cal-top{
+    width: 100%;
+    height: 200px;
+    margin-top: -21px;
+    background-image: url("https://blogs.itron.com/wp-content/uploads/2019/07/iStock-1161898151.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.Cal-top h1 {
+    font-size: 35px;
+    padding: 62px 0 0 20px;
+    color: #8308ff;
+}
+.Cal-top h4 {
+    padding: 0px 0 0 50px;
+    margin: -18px;
+}
+.Cal-buttom{
+    width: 100%;
+    height: 310px;
+    background: #ff00002b;
+}
+.row-1 .namber{
+    display: inline-block;
+    margin: 17px 7.6px;
+    background: #ddd;
+    padding: 10px;
+    border-radius: 10px;
+    color: #777;
+    transition: 1s
+}
+.row-2 .namber{
+    display: inline-block;
+    margin: 3px 11px;
+    background: #ddd;
+    padding: 10px;
+    border-radius: 10px;
+    color: #777;
+    transition: 1s
+}
+.row-3 .namber{
+    display: inline-block;
+    margin: 3px 11px;
+    background: #ddd;
+    padding: 10px;
+    border-radius: 10px;
+    color: #777;
+    transition: 1s
+}
+.row-4 .namber{
+   display: inline-block;
+    margin: 3px 11px;
+    background: #ddd;
+    padding: 10px;
+    border-radius: 10px;
+    color: #777;
+    transition: 1s
+}
+.row-5 .namber{
+    display: inline-block;
+    margin: 3px 11px;
+    background: #ddd;
+    padding: 10px;
+    border-radius: 10px;
+    color: #777;
+    transition: 1s;
+}
+
+.row-6 .namber{
+    display: inline-block;
+    margin: 3px 11px;
+    background: #ddd;
+    padding: 10px;
+    border-radius: 10px;
+    color: #777;
+    transition: 1s;
+}
+.namber:hover {
+    background: #777;
+    color: #ddd;
+}
+.namber.sada {
+    color: #ddd;
+}.namber:hover.sada {
+    color: #777;
+}
